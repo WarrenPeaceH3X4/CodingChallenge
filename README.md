@@ -6,10 +6,10 @@
 
 <summary>Leetcode</summary>
 
-|Question|DIFFICULTY|
-|--------|----------|
-|[Decode Ways](./Leetcode/Decode%20Ways/sol_dp.py)|Medium|
-|[Shortest Path in Binary Matrix](./Leetcode/Shortest%20Path%20in%20Binary%20Matrix/sol.py)|Medium|
+|Question|Solution|DIFFICULTY|
+|--------|--------|----------|
+|Decode Ways|[DP](./Leetcode/Decode%20Ways/sol_dp.py), [Recursion](./Leetcode/Decode%20Ways/sol_recursion.py)|Medium|
+|Shortest Path in Binary Matrix|[BFS](./Leetcode/Shortest%20Path%20in%20Binary%20Matrix/sol.py)|Medium|
 
 </details>
 
