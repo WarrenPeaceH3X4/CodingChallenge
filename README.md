@@ -1,4 +1,5 @@
 # CodingChallenge
+This repo is mainly for saving coding solutions.
 
 ## Questions
 
