@@ -14,6 +14,8 @@ This repo is mainly for saving coding solutions.
 |Remove All Adjacent Duplicates In String|[Stack](./Leetcode/Remove%20All%20Adjacent%20Duplicates%20In%20String/sol_stack.py), [2 pointer](./Leetcode/Remove%20All%20Adjacent%20Duplicates%20In%20String/sol_2pointer.py)|Easy|
 |Remove All Adjacent Duplicates in String II|[Stack](./Leetcode/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/sol.py)|Medium|
 |LRU Cache|[Hash + Doubled linked list](./Leetcode/LRU%20Cache/sol.py)|Medium|
+|Implement Trie (Prefix Tree)|[Trie](./Leetcode/Implement%20Trie%20(Prefix%20Tree)/sol.py)|Medium|
+|Best Time to Buy and Sell Stock|[Sliding window](./Leetcode/Best%20Time%20to%20Buy%20and%20Sell%20Stock/sol.py)|Medium|
 
 </details>
 
