@@ -9,7 +9,7 @@
 |Question|DIFFICULTY|
 |--------|----------|
 |[Decode Ways](./Leetcode/Decode%20Ways/sol_dp.py)|Medium|
-|[Shortest Path in Binary Matrix](./Leetcode/Shortest%20Path%20in%20Binary%20Matrix/Python%20sol.py)|Medium|
+|[Shortest Path in Binary Matrix](./Leetcode/Shortest%20Path%20in%20Binary%20Matrix/sol.py)|Medium|
 
 </details>
 
